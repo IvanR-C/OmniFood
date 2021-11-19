@@ -154,12 +154,13 @@ Privacy & terms
 
 ## Sections
 
+- Navigation
 - Hero
+- Featured in
 - Features
 - How it works
-- Diets
-- Meals
-- CTA
+- Meals (and list of diets)
+- Gallery + Testimonials
 - Pricing
-- Gallery
-- Testimonials
+- CTA
+- Footer
