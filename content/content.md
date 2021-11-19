@@ -41,13 +41,21 @@ Receive meals at convenient time: Best chefs in town will cook your selected mea
 ### Omnifood works with any diet
 
 Vegetarian
+
 Vegan
+
 Pescatarian
+
 Gluten-free
+
 Lactose-free
+
 Keto
+
 Paleo
+
 Low FODMAP
+
 Kid-friendly
 
 ### Sample meals
